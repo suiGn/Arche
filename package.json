@@ -1,0 +1,24 @@
+{
+  "name": "mexicoencuesta_endpoint",
+  "version": "0.0.0",
+  "description": "EndPoints para Mexico Encuesta",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suiGn/MexicoEncuesta_EndPoint.git"
+  },
+  "keywords": [
+    "Opinion",
+    "Ciudadana"
+  ],
+  "bugs": {
+    "url": "https://github.com/suiGn/MexicoEncuesta_EndPoint/issues"
+  },
+  "homepage": "https://github.com/suiGn/MexicoEncuesta_EndPoint#readme",
+  "author": "suiGn",
+  "license": "MIT",
+  "repoType": "EndPoint"
+}
