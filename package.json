@@ -6,10 +6,6 @@
   "scripts": {
     "test": "test"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/suiGn/MexicoEncuesta_EndPoint.git"
-  },
   "keywords": [
     "Opinion",
     "Ciudadana"
@@ -17,7 +13,12 @@
   "bugs": {
     "url": "https://github.com/suiGn/MexicoEncuesta_EndPoint/issues"
   },
-  "homepage": "https://github.com/suiGn/MexicoEncuesta_EndPoint#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suiGn/MexicoEncuesta_EndPoint.git"
+  },
+  "homepage": "https://mexicoencuesta-endpoint-417cc220649a.herokuapp.com/",
+  "docs": "https://suiGn.github.io/MexicoEncuesta_EndPoint",
   "author": "suiGn",
   "license": "MIT",
   "repoType": "EndPoint"
